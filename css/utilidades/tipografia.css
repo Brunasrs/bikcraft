@@ -77,6 +77,10 @@
   font-weight: 600;
 }
 
+.font-2-xl {
+  font: 500 2rem/1.25 "Roboto", sans-serif;
+}
+
 .font-1-xxl {
   font-size: 4rem;
   line-height: 1.125;
